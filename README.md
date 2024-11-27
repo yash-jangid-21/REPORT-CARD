@@ -23,7 +23,7 @@ To run this application locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/im-yash21/Report-Card.git
+    git clone https://github.com/yash-jangid-21/Report-Card.git
     cd REPORT-CARD
     ```
 
